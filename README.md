@@ -17,3 +17,5 @@ It can be distributed on multiple servers and provides those features:
 
 ##Benchmark
 ElasticCrawler is able to collect and index 40M pages in 12h on a cluster with 3x16CPUs servers (2 Elastic + 1 crawler)
+
+[Alt text](Crawler.jpg  "Indexed pages")
