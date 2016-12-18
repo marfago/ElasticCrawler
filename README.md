@@ -12,6 +12,7 @@ It can be distributed on multiple servers and provides those features:
 - language detection and language based indexing (based on elastic langugae analyzers)
 - monitoring console (based on kibana):
   - dashboars on collecter URLs
+  ![Crawler](Crawler-url.png  "Indexed URLs")
   - dashboard on collected pages
   - dashboard on query parameters and url structure (useful to detect anomalies or trap urls)
 
