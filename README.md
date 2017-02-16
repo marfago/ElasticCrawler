@@ -5,7 +5,7 @@ It can be distributed on multiple servers and provides those features:
 - configurable url depth
 - configurable parallelism degree
 - configurable politeness time
-- respectfulness of robots.txt directives
+- compliant with robots.txt directives
 - configurable list of included sources
 - configurable list of excluded domains
 - date detection
