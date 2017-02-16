@@ -8,10 +8,10 @@ It can be distributed on multiple servers and provides those features:
 - compliant with robots.txt directives
 - configurable list of included sources
 - configurable list of excluded domains
-- date detection
+- dates detection
 - language detection and language based indexing (based on elastic langugae analyzers)
 - monitoring console (based on kibana):
-  - dashboars on collecter URLs
+  - dashboars on collected URLs
   ![Crawler](Crawler-url.png  "Indexed URLs")
   - dashboard on collected pages
   - dashboard on query parameters and url structure (useful to detect anomalies or trap urls)
